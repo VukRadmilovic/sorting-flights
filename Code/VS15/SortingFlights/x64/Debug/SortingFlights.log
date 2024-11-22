@@ -1,0 +1,21 @@
+﻿  VisualizerWindow.cpp
+f:\e-fakultet\godina 2\semestar 1\oop 2\sv73-2020_vuk_radmilovic\kodovi\vs15\sortingflights\visualizerwindow.h(10): fatal error C1083: Cannot open include file: '..\graph_lib\Window.h': No such file or directory
+  Sort.cpp
+f:\e-fakultet\godina 2\semestar 1\oop 2\sv73-2020_vuk_radmilovic\kodovi\vs15\sortingflights\sort.cpp(70): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  MyWindow.cpp
+f:\e-fakultet\godina 2\semestar 1\oop 2\sv73-2020_vuk_radmilovic\kodovi\vs15\sortingflights\mywindow.h(10): fatal error C1083: Cannot open include file: '..\graph_lib\Window.h': No such file or directory
+  main.cpp
+f:\e-fakultet\godina 2\semestar 1\oop 2\sv73-2020_vuk_radmilovic\kodovi\vs15\sortingflights\mywindow.h(10): fatal error C1083: Cannot open include file: '..\graph_lib\Window.h': No such file or directory
+  Info.cpp
+  Helper.cpp
+  Window.cpp
+f:\e-fakultet\godina 2\semestar 1\oop 2\sv73-2020_vuk_radmilovic\kodovi\vs15\sortingflights\graph_lib\window.h(12): fatal error C1083: Cannot open include file: 'FL/Fl.H': No such file or directory
+  Simple_window.cpp
+f:\e-fakultet\godina 2\semestar 1\oop 2\sv73-2020_vuk_radmilovic\kodovi\vs15\sortingflights\graph_lib\window.h(12): fatal error C1083: Cannot open include file: 'FL/Fl.H': No such file or directory
+  GUI.cpp
+f:\e-fakultet\godina 2\semestar 1\oop 2\sv73-2020_vuk_radmilovic\kodovi\vs15\sortingflights\graph_lib\gui.cpp(7): fatal error C1083: Cannot open include file: 'FL/Fl.H': No such file or directory
+  Graph.cpp
+f:\e-fakultet\godina 2\semestar 1\oop 2\sv73-2020_vuk_radmilovic\kodovi\vs15\sortingflights\graph_lib\graph.cpp(7): fatal error C1083: Cannot open include file: 'FL/Fl_GIF_Image.H': No such file or directory
+  Flight.cpp
+  Arguments.cpp
+  Generating Code...
